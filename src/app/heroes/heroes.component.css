@@ -32,7 +32,6 @@
 .heroes a:hover {
   color:#607D8B;
 }
-
  
 .heroes .badge {
   display: inline-block;
@@ -50,7 +49,7 @@
   margin-right: .8em;
   border-radius: 4px 0 0 4px;
 }
-
+ 
 button {
   background-color: #eee;
   border: none;
@@ -60,11 +59,11 @@ button {
   cursor: hand;
   font-family: Arial;
 }
-
+ 
 button:hover {
   background-color: #cfd8dc;
 }
-
+ 
 button.delete {
   position: relative;
   left: 194px;
